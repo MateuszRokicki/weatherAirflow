@@ -1,0 +1,2462 @@
+{
+    "Jamaica": {
+        "id": "07956ac12a284d06b381e0bbcbe14d14",
+        "name": "Jamaica",
+        "ofiicial_name": "Jamaica",
+        "capital": "Kingston",
+        "cca2": "JM",
+        "ccn3": "388",
+        "latitude": 18.25,
+        "longitude": -77.5
+    },
+    "Comoros": {
+        "id": "9e9a47b918ff413eb756fbf563dff260",
+        "name": "Comoros",
+        "ofiicial_name": "Union of the Comoros",
+        "capital": "Moroni",
+        "cca2": "KM",
+        "ccn3": "174",
+        "latitude": -12.16666666,
+        "longitude": 44.25
+    },
+    "Zimbabwe": {
+        "id": "ae2700200a6344c4a8b3094a13371ec4",
+        "name": "Zimbabwe",
+        "ofiicial_name": "Republic of Zimbabwe",
+        "capital": "Harare",
+        "cca2": "ZW",
+        "ccn3": "716",
+        "latitude": -20.0,
+        "longitude": 30.0
+    },
+    "Sint Maarten": {
+        "id": "d5adc7263a404d68af2f124097ea928f",
+        "name": "Sint Maarten",
+        "ofiicial_name": "Sint Maarten",
+        "capital": "Philipsburg",
+        "cca2": "SX",
+        "ccn3": "534",
+        "latitude": 18.033333,
+        "longitude": -63.05
+    },
+    "Laos": {
+        "id": "ec189344d461433cb1a1da019f398fd9",
+        "name": "Laos",
+        "ofiicial_name": "Lao People's Democratic Republic",
+        "capital": "Vientiane",
+        "cca2": "LA",
+        "ccn3": "418",
+        "latitude": 18.0,
+        "longitude": 105.0
+    },
+    "Latvia": {
+        "id": "9a19904c850c456cb13d1d8d60ba3584",
+        "name": "Latvia",
+        "ofiicial_name": "Republic of Latvia",
+        "capital": "Riga",
+        "cca2": "LV",
+        "ccn3": "428",
+        "latitude": 57.0,
+        "longitude": 25.0
+    },
+    "Tajikistan": {
+        "id": "79b5616b2ed74a06bfd57afb71dc3f6d",
+        "name": "Tajikistan",
+        "ofiicial_name": "Republic of Tajikistan",
+        "capital": "Dushanbe",
+        "cca2": "TJ",
+        "ccn3": "762",
+        "latitude": 39.0,
+        "longitude": 71.0
+    },
+    "United Kingdom": {
+        "id": "530e404e774f4ae6862c0b52087eb007",
+        "name": "United Kingdom",
+        "ofiicial_name": "United Kingdom of Great Britain and Northern Ireland",
+        "capital": "London",
+        "cca2": "GB",
+        "ccn3": "826",
+        "latitude": 54.0,
+        "longitude": -2.0
+    },
+    "Nicaragua": {
+        "id": "7c42ed94b2644968b9483edd34f3fd3b",
+        "name": "Nicaragua",
+        "ofiicial_name": "Republic of Nicaragua",
+        "capital": "Managua",
+        "cca2": "NI",
+        "ccn3": "558",
+        "latitude": 13.0,
+        "longitude": -85.0
+    },
+    "Sudan": {
+        "id": "036399d439de426e931a98b282a6e200",
+        "name": "Sudan",
+        "ofiicial_name": "Republic of the Sudan",
+        "capital": "Khartoum",
+        "cca2": "SD",
+        "ccn3": "729",
+        "latitude": 15.0,
+        "longitude": 30.0
+    },
+    "Greece": {
+        "id": "2aa7eac25b8d474187f03f8fe14206c3",
+        "name": "Greece",
+        "ofiicial_name": "Hellenic Republic",
+        "capital": "Athens",
+        "cca2": "GR",
+        "ccn3": "300",
+        "latitude": 39.0,
+        "longitude": 22.0
+    },
+    "Lithuania": {
+        "id": "007fed390c58427389177553d837f465",
+        "name": "Lithuania",
+        "ofiicial_name": "Republic of Lithuania",
+        "capital": "Vilnius",
+        "cca2": "LT",
+        "ccn3": "440",
+        "latitude": 56.0,
+        "longitude": 24.0
+    },
+    "Rwanda": {
+        "id": "bc6a38fd5e3b434a97a8894133b493ab",
+        "name": "Rwanda",
+        "ofiicial_name": "Republic of Rwanda",
+        "capital": "Kigali",
+        "cca2": "RW",
+        "ccn3": "646",
+        "latitude": -2.0,
+        "longitude": 30.0
+    },
+    "Senegal": {
+        "id": "8bb936f661424dc6bb4b68b888fb1bf2",
+        "name": "Senegal",
+        "ofiicial_name": "Republic of Senegal",
+        "capital": "Dakar",
+        "cca2": "SN",
+        "ccn3": "686",
+        "latitude": 14.0,
+        "longitude": -14.0
+    },
+    "Monaco": {
+        "id": "fadc68997a5a44a29c6520895ef1bcde",
+        "name": "Monaco",
+        "ofiicial_name": "Principality of Monaco",
+        "capital": "Monaco",
+        "cca2": "MC",
+        "ccn3": "492",
+        "latitude": 43.73333333,
+        "longitude": 7.4
+    },
+    "Lesotho": {
+        "id": "bac6a80212b74dbbaa09ebb988090356",
+        "name": "Lesotho",
+        "ofiicial_name": "Kingdom of Lesotho",
+        "capital": "Maseru",
+        "cca2": "LS",
+        "ccn3": "426",
+        "latitude": -29.5,
+        "longitude": 28.5
+    },
+    "Tunisia": {
+        "id": "037a2ee0c2954b3d95952f407a3a1705",
+        "name": "Tunisia",
+        "ofiicial_name": "Tunisian Republic",
+        "capital": "Tunis",
+        "cca2": "TN",
+        "ccn3": "788",
+        "latitude": 34.0,
+        "longitude": 9.0
+    },
+    "Vanuatu": {
+        "id": "5628bc47ff144c37a2b3fd4c9bc02881",
+        "name": "Vanuatu",
+        "ofiicial_name": "Republic of Vanuatu",
+        "capital": "Port Vila",
+        "cca2": "VU",
+        "ccn3": "548",
+        "latitude": -16.0,
+        "longitude": 167.0
+    },
+    "Ecuador": {
+        "id": "2e8dca9dc8594b74874679d335c1a426",
+        "name": "Ecuador",
+        "ofiicial_name": "Republic of Ecuador",
+        "capital": "Quito",
+        "cca2": "EC",
+        "ccn3": "218",
+        "latitude": -2.0,
+        "longitude": -77.5
+    },
+    "Kuwait": {
+        "id": "9da8ca7be0794ba0a4822a8b235c5fb7",
+        "name": "Kuwait",
+        "ofiicial_name": "State of Kuwait",
+        "capital": "Kuwait City",
+        "cca2": "KW",
+        "ccn3": "414",
+        "latitude": 29.5,
+        "longitude": 45.75
+    },
+    "Philippines": {
+        "id": "081d749c373c4be6a4c300b2c09de936",
+        "name": "Philippines",
+        "ofiicial_name": "Republic of the Philippines",
+        "capital": "Manila",
+        "cca2": "PH",
+        "ccn3": "608",
+        "latitude": 13.0,
+        "longitude": 122.0
+    },
+    "Chile": {
+        "id": "9778692aaa444e79ba537cdf4cb6199c",
+        "name": "Chile",
+        "ofiicial_name": "Republic of Chile",
+        "capital": "Santiago",
+        "cca2": "CL",
+        "ccn3": "152",
+        "latitude": -30.0,
+        "longitude": -71.0
+    },
+    "Bahamas": {
+        "id": "ef952baffef24d7092c548f08a731d70",
+        "name": "Bahamas",
+        "ofiicial_name": "Commonwealth of the Bahamas",
+        "capital": "Nassau",
+        "cca2": "BS",
+        "ccn3": "044",
+        "latitude": 25.0343,
+        "longitude": -77.3963
+    },
+    "Tanzania": {
+        "id": "695f54f6353c40789b21729d8cdbdc44",
+        "name": "Tanzania",
+        "ofiicial_name": "United Republic of Tanzania",
+        "capital": "Dodoma",
+        "cca2": "TZ",
+        "ccn3": "834",
+        "latitude": -6.0,
+        "longitude": 35.0
+    },
+    "Costa Rica": {
+        "id": "0800b4ee9b474711b02decafb9d972b0",
+        "name": "Costa Rica",
+        "ofiicial_name": "Republic of Costa Rica",
+        "capital": "San Jos\u00e9",
+        "cca2": "CR",
+        "ccn3": "188",
+        "latitude": 10.0,
+        "longitude": -84.0
+    },
+    "Morocco": {
+        "id": "2b3f509678fd43c7b23cb17c5350cceb",
+        "name": "Morocco",
+        "ofiicial_name": "Kingdom of Morocco",
+        "capital": "Rabat",
+        "cca2": "MA",
+        "ccn3": "504",
+        "latitude": 32.0,
+        "longitude": -5.0
+    },
+    "Montenegro": {
+        "id": "e9be383157e94066aa71b2ad063dbf56",
+        "name": "Montenegro",
+        "ofiicial_name": "Montenegro",
+        "capital": "Podgorica",
+        "cca2": "ME",
+        "ccn3": "499",
+        "latitude": 42.5,
+        "longitude": 19.3
+    },
+    "Micronesia": {
+        "id": "de187b659a4c4be7875f11048826d5ff",
+        "name": "Micronesia",
+        "ofiicial_name": "Federated States of Micronesia",
+        "capital": "Palikir",
+        "cca2": "FM",
+        "ccn3": "583",
+        "latitude": 6.91666666,
+        "longitude": 158.25
+    },
+    "Portugal": {
+        "id": "0cde567cfb9341e698c1993a431c2e2a",
+        "name": "Portugal",
+        "ofiicial_name": "Portuguese Republic",
+        "capital": "Lisbon",
+        "cca2": "PT",
+        "ccn3": "620",
+        "latitude": 39.5,
+        "longitude": -8.0
+    },
+    "United Arab Emirates": {
+        "id": "b88aef3396ec4856ac048f53765cd587",
+        "name": "United Arab Emirates",
+        "ofiicial_name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "cca2": "AE",
+        "ccn3": "784",
+        "latitude": 24.0,
+        "longitude": 54.0
+    },
+    "Libya": {
+        "id": "31e438874efe44a49e6fafe90619150c",
+        "name": "Libya",
+        "ofiicial_name": "State of Libya",
+        "capital": "Tripoli",
+        "cca2": "LY",
+        "ccn3": "434",
+        "latitude": 25.0,
+        "longitude": 17.0
+    },
+    "Luxembourg": {
+        "id": "27d9df3920154268855704346291d3fa",
+        "name": "Luxembourg",
+        "ofiicial_name": "Grand Duchy of Luxembourg",
+        "capital": "Luxembourg",
+        "cca2": "LU",
+        "ccn3": "442",
+        "latitude": 49.75,
+        "longitude": 6.16666666
+    },
+    "Jersey": {
+        "id": "29bc3f3a61984c0594019bd7a2cb5bca",
+        "name": "Jersey",
+        "ofiicial_name": "Bailiwick of Jersey",
+        "capital": "Saint Helier",
+        "cca2": "JE",
+        "ccn3": "832",
+        "latitude": 49.25,
+        "longitude": -2.16666666
+    },
+    "Solomon Islands": {
+        "id": "b104aa2e0e4d4c3e8c1f1a288ae83de1",
+        "name": "Solomon Islands",
+        "ofiicial_name": "Solomon Islands",
+        "capital": "Honiara",
+        "cca2": "SB",
+        "ccn3": "090",
+        "latitude": -8.0,
+        "longitude": 159.0
+    },
+    "Algeria": {
+        "id": "0185ca913aeb44dd93b35a15ec32572d",
+        "name": "Algeria",
+        "ofiicial_name": "People's Democratic Republic of Algeria",
+        "capital": "Algiers",
+        "cca2": "DZ",
+        "ccn3": "012",
+        "latitude": 28.0,
+        "longitude": 3.0
+    },
+    "Antigua and Barbuda": {
+        "id": "a77842729e8f4d03add944d528bbb4f1",
+        "name": "Antigua and Barbuda",
+        "ofiicial_name": "Antigua and Barbuda",
+        "capital": "Saint John's",
+        "cca2": "AG",
+        "ccn3": "028",
+        "latitude": 17.05,
+        "longitude": -61.8
+    },
+    "Saint Helena, Ascension and Tristan da Cunha": {
+        "id": "7d8b009475864d669e894f3df74ed0e1",
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "ofiicial_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "capital": "Jamestown",
+        "cca2": "SH",
+        "ccn3": "654",
+        "latitude": -15.95,
+        "longitude": -5.72
+    },
+    "Brazil": {
+        "id": "f3bc87831f704f74b18da59e34227122",
+        "name": "Brazil",
+        "ofiicial_name": "Federative Republic of Brazil",
+        "capital": "Bras\u00edlia",
+        "cca2": "BR",
+        "ccn3": "076",
+        "latitude": -10.0,
+        "longitude": -55.0
+    },
+    "South Georgia": {
+        "id": "1bd27c5d9a0b495795624b45cf4c5d36",
+        "name": "South Georgia",
+        "ofiicial_name": "South Georgia and the South Sandwich Islands",
+        "capital": "King Edward Point",
+        "cca2": "GS",
+        "ccn3": "239",
+        "latitude": -54.5,
+        "longitude": -37.0
+    },
+    "Mali": {
+        "id": "d264f91055fd4042b4884e70f72d162b",
+        "name": "Mali",
+        "ofiicial_name": "Republic of Mali",
+        "capital": "Bamako",
+        "cca2": "ML",
+        "ccn3": "466",
+        "latitude": 17.0,
+        "longitude": -4.0
+    },
+    "Pakistan": {
+        "id": "5832760ac8bc4e5ba9debc8c700bb177",
+        "name": "Pakistan",
+        "ofiicial_name": "Islamic Republic of Pakistan",
+        "capital": "Islamabad",
+        "cca2": "PK",
+        "ccn3": "586",
+        "latitude": 30.0,
+        "longitude": 70.0
+    },
+    "Trinidad and Tobago": {
+        "id": "b6edd6c0691e445e9ed3c42a710fb68c",
+        "name": "Trinidad and Tobago",
+        "ofiicial_name": "Republic of Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "cca2": "TT",
+        "ccn3": "780",
+        "latitude": 10.6918,
+        "longitude": -61.2225
+    },
+    "Armenia": {
+        "id": "bdc8e48ba2ec4648b8cbf5ccfb37df0b",
+        "name": "Armenia",
+        "ofiicial_name": "Republic of Armenia",
+        "capital": "Yerevan",
+        "cca2": "AM",
+        "ccn3": "051",
+        "latitude": 40.0,
+        "longitude": 45.0
+    },
+    "Bangladesh": {
+        "id": "b43fc7aa3fe745b39cb5e131352d5e06",
+        "name": "Bangladesh",
+        "ofiicial_name": "People's Republic of Bangladesh",
+        "capital": "Dhaka",
+        "cca2": "BD",
+        "ccn3": "050",
+        "latitude": 24.0,
+        "longitude": 90.0
+    },
+    "Turks and Caicos Islands": {
+        "id": "48d57e1fe8bd4a5f8ddbf023e69c3129",
+        "name": "Turks and Caicos Islands",
+        "ofiicial_name": "Turks and Caicos Islands",
+        "capital": "Cockburn Town",
+        "cca2": "TC",
+        "ccn3": "796",
+        "latitude": 21.75,
+        "longitude": -71.58333333
+    },
+    "Turkmenistan": {
+        "id": "16a3195ed0ea47e3a9ee8fde4e318e58",
+        "name": "Turkmenistan",
+        "ofiicial_name": "Turkmenistan",
+        "capital": "Ashgabat",
+        "cca2": "TM",
+        "ccn3": "795",
+        "latitude": 40.0,
+        "longitude": 60.0
+    },
+    "Faroe Islands": {
+        "id": "202cac69eab64ff3ba48d06acac56080",
+        "name": "Faroe Islands",
+        "ofiicial_name": "Faroe Islands",
+        "capital": "T\u00f3rshavn",
+        "cca2": "FO",
+        "ccn3": "234",
+        "latitude": 62.0,
+        "longitude": -7.0
+    },
+    "Palau": {
+        "id": "be8ad94bb4a249c9a54e846081b4896c",
+        "name": "Palau",
+        "ofiicial_name": "Republic of Palau",
+        "capital": "Ngerulmud",
+        "cca2": "PW",
+        "ccn3": "585",
+        "latitude": 7.5,
+        "longitude": 134.5
+    },
+    "Cuba": {
+        "id": "9939e2d9a3944345abdc494c7dbea0cd",
+        "name": "Cuba",
+        "ofiicial_name": "Republic of Cuba",
+        "capital": "Havana",
+        "cca2": "CU",
+        "ccn3": "192",
+        "latitude": 21.5,
+        "longitude": -80.0
+    },
+    "Chad": {
+        "id": "7fc1f9300ebd4ba2860282d9e0fc81de",
+        "name": "Chad",
+        "ofiicial_name": "Republic of Chad",
+        "capital": "N'Djamena",
+        "cca2": "TD",
+        "ccn3": "148",
+        "latitude": 15.0,
+        "longitude": 19.0
+    },
+    "Bosnia and Herzegovina": {
+        "id": "646ad4bd911d4f4ca99d50a67b45e61b",
+        "name": "Bosnia and Herzegovina",
+        "ofiicial_name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "cca2": "BA",
+        "ccn3": "070",
+        "latitude": 44.0,
+        "longitude": 18.0
+    },
+    "Botswana": {
+        "id": "4c8224b363af4ee6a9c3b07903f7f0f1",
+        "name": "Botswana",
+        "ofiicial_name": "Republic of Botswana",
+        "capital": "Gaborone",
+        "cca2": "BW",
+        "ccn3": "072",
+        "latitude": -22.0,
+        "longitude": 24.0
+    },
+    "Estonia": {
+        "id": "c6d2ff7ecdcd433297db031576f62100",
+        "name": "Estonia",
+        "ofiicial_name": "Republic of Estonia",
+        "capital": "Tallinn",
+        "cca2": "EE",
+        "ccn3": "233",
+        "latitude": 59.0,
+        "longitude": 26.0
+    },
+    "British Indian Ocean Territory": {
+        "id": "573d374d79da4d188c0aa329d00497a2",
+        "name": "British Indian Ocean Territory",
+        "ofiicial_name": "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "cca2": "IO",
+        "ccn3": "086",
+        "latitude": -6.0,
+        "longitude": 71.5
+    },
+    "French Southern and Antarctic Lands": {
+        "id": "34c0520a413d4e2b9bc0f6816267298a",
+        "name": "French Southern and Antarctic Lands",
+        "ofiicial_name": "Territory of the French Southern and Antarctic Lands",
+        "capital": "Port-aux-Fran\u00e7ais",
+        "cca2": "TF",
+        "ccn3": "260",
+        "latitude": -49.25,
+        "longitude": 69.167
+    },
+    "Greenland": {
+        "id": "207e8a6c33a343bf97a9ac803c18853c",
+        "name": "Greenland",
+        "ofiicial_name": "Greenland",
+        "capital": "Nuuk",
+        "cca2": "GL",
+        "ccn3": "304",
+        "latitude": 72.0,
+        "longitude": -40.0
+    },
+    "Christmas Island": {
+        "id": "2be07a3683694f759ac638a4ce5abf8c",
+        "name": "Christmas Island",
+        "ofiicial_name": "Territory of Christmas Island",
+        "capital": "Flying Fish Cove",
+        "cca2": "CX",
+        "ccn3": "162",
+        "latitude": -10.5,
+        "longitude": 105.66666666
+    },
+    "Pitcairn Islands": {
+        "id": "73915659d3c84d17bf5af75b00dc2b4d",
+        "name": "Pitcairn Islands",
+        "ofiicial_name": "Pitcairn Group of Islands",
+        "capital": "Adamstown",
+        "cca2": "PN",
+        "ccn3": "612",
+        "latitude": -25.06666666,
+        "longitude": -130.1
+    },
+    "Western Sahara": {
+        "id": "4cc0ca7bf1b34e728183c7f5f8bdf6e9",
+        "name": "Western Sahara",
+        "ofiicial_name": "Sahrawi Arab Democratic Republic",
+        "capital": "El Aai\u00fan",
+        "cca2": "EH",
+        "ccn3": "732",
+        "latitude": 24.5,
+        "longitude": -13.0
+    },
+    "Montserrat": {
+        "id": "e5066033d7b34fac9fd560d663548c58",
+        "name": "Montserrat",
+        "ofiicial_name": "Montserrat",
+        "capital": "Plymouth",
+        "cca2": "MS",
+        "ccn3": "500",
+        "latitude": 16.75,
+        "longitude": -62.2
+    },
+    "Bahrain": {
+        "id": "b85c6675ff334f55b2ff72054b1122c3",
+        "name": "Bahrain",
+        "ofiicial_name": "Kingdom of Bahrain",
+        "capital": "Manama",
+        "cca2": "BH",
+        "ccn3": "048",
+        "latitude": 26.0,
+        "longitude": 50.55
+    },
+    "Dominican Republic": {
+        "id": "ab2fe5ce75a34e23aebf8c2e7985ae18",
+        "name": "Dominican Republic",
+        "ofiicial_name": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "cca2": "DO",
+        "ccn3": "214",
+        "latitude": 19.0,
+        "longitude": -70.66666666
+    },
+    "United States": {
+        "id": "1847626a181e4087b675088166c279cb",
+        "name": "United States",
+        "ofiicial_name": "United States of America",
+        "capital": "Washington, D.C.",
+        "cca2": "US",
+        "ccn3": "840",
+        "latitude": 38.0,
+        "longitude": -97.0
+    },
+    "Cook Islands": {
+        "id": "8a925b18c20e4f25b35358b86ab018ac",
+        "name": "Cook Islands",
+        "ofiicial_name": "Cook Islands",
+        "capital": "Avarua",
+        "cca2": "CK",
+        "ccn3": "184",
+        "latitude": -21.23333333,
+        "longitude": -159.76666666
+    },
+    "Colombia": {
+        "id": "74b7c42497fd4abdaf92d32826c25a7b",
+        "name": "Colombia",
+        "ofiicial_name": "Republic of Colombia",
+        "capital": "Bogot\u00e1",
+        "cca2": "CO",
+        "ccn3": "170",
+        "latitude": 4.0,
+        "longitude": -72.0
+    },
+    "Guinea": {
+        "id": "3944e0472b9b474d827d5d5496fb43a8",
+        "name": "Guinea",
+        "ofiicial_name": "Republic of Guinea",
+        "capital": "Conakry",
+        "cca2": "GN",
+        "ccn3": "324",
+        "latitude": 11.0,
+        "longitude": -10.0
+    },
+    "Ireland": {
+        "id": "aa10e718fc6b40209a938a34abea81fe",
+        "name": "Ireland",
+        "ofiicial_name": "Republic of Ireland",
+        "capital": "Dublin",
+        "cca2": "IE",
+        "ccn3": "372",
+        "latitude": 53.0,
+        "longitude": -8.0
+    },
+    "Maldives": {
+        "id": "c2c880eaaf024d3fa4f2a0baf4091869",
+        "name": "Maldives",
+        "ofiicial_name": "Republic of the Maldives",
+        "capital": "Mal\u00e9",
+        "cca2": "MV",
+        "ccn3": "462",
+        "latitude": 3.25,
+        "longitude": 73.0
+    },
+    "Panama": {
+        "id": "74efa9e020bc425ebd8bfeae53a84ca0",
+        "name": "Panama",
+        "ofiicial_name": "Republic of Panama",
+        "capital": "Panama City",
+        "cca2": "PA",
+        "ccn3": "591",
+        "latitude": 9.0,
+        "longitude": -80.0
+    },
+    "Mozambique": {
+        "id": "806334d307a643d19710c295dbfb564a",
+        "name": "Mozambique",
+        "ofiicial_name": "Republic of Mozambique",
+        "capital": "Maputo",
+        "cca2": "MZ",
+        "ccn3": "508",
+        "latitude": -18.25,
+        "longitude": 35.0
+    },
+    "Oman": {
+        "id": "b1518a3c96f04d95bcb2c05fc19388df",
+        "name": "Oman",
+        "ofiicial_name": "Sultanate of Oman",
+        "capital": "Muscat",
+        "cca2": "OM",
+        "ccn3": "512",
+        "latitude": 21.0,
+        "longitude": 57.0
+    },
+    "Czechia": {
+        "id": "a7a660907c2246258f74d2a70631ee90",
+        "name": "Czechia",
+        "ofiicial_name": "Czech Republic",
+        "capital": "Prague",
+        "cca2": "CZ",
+        "ccn3": "203",
+        "latitude": 49.75,
+        "longitude": 15.5
+    },
+    "Saint Vincent and the Grenadines": {
+        "id": "c6585faee740468a90b3275005dc1251",
+        "name": "Saint Vincent and the Grenadines",
+        "ofiicial_name": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "cca2": "VC",
+        "ccn3": "670",
+        "latitude": 13.25,
+        "longitude": -61.2
+    },
+    "Haiti": {
+        "id": "f42b1ff6b4e244419d2f2537e5b8fc21",
+        "name": "Haiti",
+        "ofiicial_name": "Republic of Haiti",
+        "capital": "Port-au-Prince",
+        "cca2": "HT",
+        "ccn3": "332",
+        "latitude": 19.0,
+        "longitude": -72.41666666
+    },
+    "Nigeria": {
+        "id": "0a9e805b0a8a43d2bd71651b651cba56",
+        "name": "Nigeria",
+        "ofiicial_name": "Federal Republic of Nigeria",
+        "capital": "Abuja",
+        "cca2": "NG",
+        "ccn3": "566",
+        "latitude": 10.0,
+        "longitude": 8.0
+    },
+    "British Virgin Islands": {
+        "id": "1e96bf74b820426585369a722f0da569",
+        "name": "British Virgin Islands",
+        "ofiicial_name": "Virgin Islands",
+        "capital": "Road Town",
+        "cca2": "VG",
+        "ccn3": "092",
+        "latitude": 18.431383,
+        "longitude": -64.62305
+    },
+    "Namibia": {
+        "id": "2f8eb908fe584ca3bb2de70e7b664171",
+        "name": "Namibia",
+        "ofiicial_name": "Republic of Namibia",
+        "capital": "Windhoek",
+        "cca2": "NA",
+        "ccn3": "516",
+        "latitude": -22.0,
+        "longitude": 17.0
+    },
+    "Dominica": {
+        "id": "ff75dfc76e414b6fb0ed38e5eda97897",
+        "name": "Dominica",
+        "ofiicial_name": "Commonwealth of Dominica",
+        "capital": "Roseau",
+        "cca2": "DM",
+        "ccn3": "212",
+        "latitude": 15.41666666,
+        "longitude": -61.33333333
+    },
+    "Canada": {
+        "id": "5df87172b445406182eb10b2165364b5",
+        "name": "Canada",
+        "ofiicial_name": "Canada",
+        "capital": "Ottawa",
+        "cca2": "CA",
+        "ccn3": "124",
+        "latitude": 60.0,
+        "longitude": -95.0
+    },
+    "Guernsey": {
+        "id": "7b879757681943f2af1ea4132054a0c8",
+        "name": "Guernsey",
+        "ofiicial_name": "Bailiwick of Guernsey",
+        "capital": "St. Peter Port",
+        "cca2": "GG",
+        "ccn3": "831",
+        "latitude": 49.46666666,
+        "longitude": -2.58333333
+    },
+    "Niger": {
+        "id": "8ae62fc4b7ee4426b3b673b78838fc49",
+        "name": "Niger",
+        "ofiicial_name": "Republic of Niger",
+        "capital": "Niamey",
+        "cca2": "NE",
+        "ccn3": "562",
+        "latitude": 16.0,
+        "longitude": 8.0
+    },
+    "Indonesia": {
+        "id": "faf43d8a6978475d93303ce84980f89b",
+        "name": "Indonesia",
+        "ofiicial_name": "Republic of Indonesia",
+        "capital": "Jakarta",
+        "cca2": "ID",
+        "ccn3": "360",
+        "latitude": -5.0,
+        "longitude": 120.0
+    },
+    "Yemen": {
+        "id": "0d7e31d75bde4be6a4108d88d6f77b6b",
+        "name": "Yemen",
+        "ofiicial_name": "Republic of Yemen",
+        "capital": "Sana'a",
+        "cca2": "YE",
+        "ccn3": "887",
+        "latitude": 15.0,
+        "longitude": 48.0
+    },
+    "Palestine": {
+        "id": "fa590d2358e94187ba717be430797e93",
+        "name": "Palestine",
+        "ofiicial_name": "State of Palestine",
+        "capital": "Ramallah",
+        "cca2": "PS",
+        "ccn3": "275",
+        "latitude": 31.9,
+        "longitude": 35.2
+    },
+    "Gabon": {
+        "id": "53c4cbb1f28049a687783cf97393b310",
+        "name": "Gabon",
+        "ofiicial_name": "Gabonese Republic",
+        "capital": "Libreville",
+        "cca2": "GA",
+        "ccn3": "266",
+        "latitude": -1.0,
+        "longitude": 11.75
+    },
+    "Eritrea": {
+        "id": "9344a6649de74fbeb4ce0c8e638afb42",
+        "name": "Eritrea",
+        "ofiicial_name": "State of Eritrea",
+        "capital": "Asmara",
+        "cca2": "ER",
+        "ccn3": "232",
+        "latitude": 15.0,
+        "longitude": 39.0
+    },
+    "Cyprus": {
+        "id": "c7803a59f2bd4e9dae890bf484112754",
+        "name": "Cyprus",
+        "ofiicial_name": "Republic of Cyprus",
+        "capital": "Nicosia",
+        "cca2": "CY",
+        "ccn3": "196",
+        "latitude": 35.0,
+        "longitude": 33.0
+    },
+    "Hong Kong": {
+        "id": "4195269e0852437cac7738f39958a2da",
+        "name": "Hong Kong",
+        "ofiicial_name": "Hong Kong Special Administrative Region of the People's Republic of China",
+        "capital": "City of Victoria",
+        "cca2": "HK",
+        "ccn3": "344",
+        "latitude": 22.267,
+        "longitude": 114.188
+    },
+    "Slovakia": {
+        "id": "e77a76d9e24246b7ab3181bec182db51",
+        "name": "Slovakia",
+        "ofiicial_name": "Slovak Republic",
+        "capital": "Bratislava",
+        "cca2": "SK",
+        "ccn3": "703",
+        "latitude": 48.66666666,
+        "longitude": 19.5
+    },
+    "Slovenia": {
+        "id": "61bf18a140b4444c910a6665608016ba",
+        "name": "Slovenia",
+        "ofiicial_name": "Republic of Slovenia",
+        "capital": "Ljubljana",
+        "cca2": "SI",
+        "ccn3": "705",
+        "latitude": 46.11666666,
+        "longitude": 14.81666666
+    },
+    "Niue": {
+        "id": "a691f81aac314493b941802e8196e228",
+        "name": "Niue",
+        "ofiicial_name": "Niue",
+        "capital": "Alofi",
+        "cca2": "NU",
+        "ccn3": "570",
+        "latitude": -19.03333333,
+        "longitude": -169.86666666
+    },
+    "Kiribati": {
+        "id": "2cc0dba02cde4d56b3f4b3a0b4e1889f",
+        "name": "Kiribati",
+        "ofiicial_name": "Independent and Sovereign Republic of Kiribati",
+        "capital": "South Tarawa",
+        "cca2": "KI",
+        "ccn3": "296",
+        "latitude": 1.41666666,
+        "longitude": 173.0
+    },
+    "Germany": {
+        "id": "9054516084064da9bb56ea66bccbe638",
+        "name": "Germany",
+        "ofiicial_name": "Federal Republic of Germany",
+        "capital": "Berlin",
+        "cca2": "DE",
+        "ccn3": "276",
+        "latitude": 51.0,
+        "longitude": 9.0
+    },
+    "Kosovo": {
+        "id": "eac63df4a7864af7a007064ceb9ce8bb",
+        "name": "Kosovo",
+        "ofiicial_name": "Republic of Kosovo",
+        "capital": "Pristina",
+        "cca2": "XK",
+        "ccn3": "",
+        "latitude": 42.666667,
+        "longitude": 21.166667
+    },
+    "Ivory Coast": {
+        "id": "7e635256087a49cba031933090c1ca6e",
+        "name": "Ivory Coast",
+        "ofiicial_name": "Republic of C\u00f4te d'Ivoire",
+        "capital": "Yamoussoukro",
+        "cca2": "CI",
+        "ccn3": "384",
+        "latitude": 8.0,
+        "longitude": -5.0
+    },
+    "Sri Lanka": {
+        "id": "5d8e99a5f682463f80bc39864d36d317",
+        "name": "Sri Lanka",
+        "ofiicial_name": "Democratic Socialist Republic of Sri Lanka",
+        "capital": "Sri Jayawardenepura Kotte",
+        "cca2": "LK",
+        "ccn3": "144",
+        "latitude": 7.0,
+        "longitude": 81.0
+    },
+    "Saint Martin": {
+        "id": "8816adae91404f55a86e75d2e42c3e44",
+        "name": "Saint Martin",
+        "ofiicial_name": "Saint Martin",
+        "capital": "Marigot",
+        "cca2": "MF",
+        "ccn3": "663",
+        "latitude": 18.0708,
+        "longitude": -63.0501
+    },
+    "Belgium": {
+        "id": "3c76cff9ea594bed8c637a450cf9b355",
+        "name": "Belgium",
+        "ofiicial_name": "Kingdom of Belgium",
+        "capital": "Brussels",
+        "cca2": "BE",
+        "ccn3": "056",
+        "latitude": 50.83333333,
+        "longitude": 4.0
+    },
+    "Israel": {
+        "id": "7d5bd5b346924eb5a561b2ee1a66db04",
+        "name": "Israel",
+        "ofiicial_name": "State of Israel",
+        "capital": "Jerusalem",
+        "cca2": "IL",
+        "ccn3": "376",
+        "latitude": 31.47,
+        "longitude": 35.13
+    },
+    "\u00c5land Islands": {
+        "id": "13701d4d7d0d43ca97f1cccfed2c5bf3",
+        "name": "\u00c5land Islands",
+        "ofiicial_name": "\u00c5land Islands",
+        "capital": "Mariehamn",
+        "cca2": "AX",
+        "ccn3": "248",
+        "latitude": 60.116667,
+        "longitude": 19.9
+    },
+    "Northern Mariana Islands": {
+        "id": "17c8a48c62034035bff875dac2278c26",
+        "name": "Northern Mariana Islands",
+        "ofiicial_name": "Commonwealth of the Northern Mariana Islands",
+        "capital": "Saipan",
+        "cca2": "MP",
+        "ccn3": "580",
+        "latitude": 15.2,
+        "longitude": 145.75
+    },
+    "Denmark": {
+        "id": "81bb22078d574560859234544fe24b00",
+        "name": "Denmark",
+        "ofiicial_name": "Kingdom of Denmark",
+        "capital": "Copenhagen",
+        "cca2": "DK",
+        "ccn3": "208",
+        "latitude": 56.0,
+        "longitude": 10.0
+    },
+    "Bermuda": {
+        "id": "3be81f16d6f54492808d69a3d2b5d844",
+        "name": "Bermuda",
+        "ofiicial_name": "Bermuda",
+        "capital": "Hamilton",
+        "cca2": "BM",
+        "ccn3": "060",
+        "latitude": 32.33333333,
+        "longitude": -64.75
+    },
+    "Gibraltar": {
+        "id": "30aa471a06224edc90fd7a4e8ba0bf98",
+        "name": "Gibraltar",
+        "ofiicial_name": "Gibraltar",
+        "capital": "Gibraltar",
+        "cca2": "GI",
+        "ccn3": "292",
+        "latitude": 36.13333333,
+        "longitude": -5.35
+    },
+    "Syria": {
+        "id": "182c3239a09a417aa19409b4ba97fb7a",
+        "name": "Syria",
+        "ofiicial_name": "Syrian Arab Republic",
+        "capital": "Damascus",
+        "cca2": "SY",
+        "ccn3": "760",
+        "latitude": 35.0,
+        "longitude": 38.0
+    },
+    "Timor-Leste": {
+        "id": "affe005bb91a4b3ab4fba32a63512a07",
+        "name": "Timor-Leste",
+        "ofiicial_name": "Democratic Republic of Timor-Leste",
+        "capital": "Dili",
+        "cca2": "TL",
+        "ccn3": "626",
+        "latitude": -8.83333333,
+        "longitude": 125.91666666
+    },
+    "San Marino": {
+        "id": "b9cd6afbfff342d49d4514ff283373bb",
+        "name": "San Marino",
+        "ofiicial_name": "Republic of San Marino",
+        "capital": "City of San Marino",
+        "cca2": "SM",
+        "ccn3": "674",
+        "latitude": 43.76666666,
+        "longitude": 12.41666666
+    },
+    "Gambia": {
+        "id": "532d2ffeb9334deeb377466dc103bbc3",
+        "name": "Gambia",
+        "ofiicial_name": "Republic of the Gambia",
+        "capital": "Banjul",
+        "cca2": "GM",
+        "ccn3": "270",
+        "latitude": 13.46666666,
+        "longitude": -16.56666666
+    },
+    "Peru": {
+        "id": "6ed91a32dfe54224b9ef5005f9f6f4a8",
+        "name": "Peru",
+        "ofiicial_name": "Republic of Peru",
+        "capital": "Lima",
+        "cca2": "PE",
+        "ccn3": "604",
+        "latitude": -10.0,
+        "longitude": -76.0
+    },
+    "Guinea-Bissau": {
+        "id": "6abde31c233d48289ea22bbfbfeb1340",
+        "name": "Guinea-Bissau",
+        "ofiicial_name": "Republic of Guinea-Bissau",
+        "capital": "Bissau",
+        "cca2": "GW",
+        "ccn3": "624",
+        "latitude": 12.0,
+        "longitude": -15.0
+    },
+    "Sierra Leone": {
+        "id": "a03300ffd4934852b2d18c80d3df632b",
+        "name": "Sierra Leone",
+        "ofiicial_name": "Republic of Sierra Leone",
+        "capital": "Freetown",
+        "cca2": "SL",
+        "ccn3": "694",
+        "latitude": 8.5,
+        "longitude": -11.5
+    },
+    "Turkey": {
+        "id": "0c44a9141efa4dd0903299d5c0c9c93c",
+        "name": "Turkey",
+        "ofiicial_name": "Republic of Turkey",
+        "capital": "Ankara",
+        "cca2": "TR",
+        "ccn3": "792",
+        "latitude": 39.0,
+        "longitude": 35.0
+    },
+    "Bolivia": {
+        "id": "879e0dadbc6743a49fe477b05a9ec021",
+        "name": "Bolivia",
+        "ofiicial_name": "Plurinational State of Bolivia",
+        "capital": "Sucre",
+        "cca2": "BO",
+        "ccn3": "068",
+        "latitude": -17.0,
+        "longitude": -65.0
+    },
+    "Norway": {
+        "id": "74e61933e758472c84dd1fb43c34b828",
+        "name": "Norway",
+        "ofiicial_name": "Kingdom of Norway",
+        "capital": "Oslo",
+        "cca2": "NO",
+        "ccn3": "578",
+        "latitude": 62.0,
+        "longitude": 10.0
+    },
+    "Republic of the Congo": {
+        "id": "8f45fb6a1287436095479f115f493ca0",
+        "name": "Republic of the Congo",
+        "ofiicial_name": "Republic of the Congo",
+        "capital": "Brazzaville",
+        "cca2": "CG",
+        "ccn3": "178",
+        "latitude": -1.0,
+        "longitude": 15.0
+    },
+    "Eswatini": {
+        "id": "9fa8c3964b38469eabf145715ae59f3e",
+        "name": "Eswatini",
+        "ofiicial_name": "Kingdom of Eswatini",
+        "capital": "Mbabane",
+        "cca2": "SZ",
+        "ccn3": "748",
+        "latitude": -26.5,
+        "longitude": 31.5
+    },
+    "Paraguay": {
+        "id": "8406bc904e6340b796bfe07ca593414d",
+        "name": "Paraguay",
+        "ofiicial_name": "Republic of Paraguay",
+        "capital": "Asunci\u00f3n",
+        "cca2": "PY",
+        "ccn3": "600",
+        "latitude": -23.0,
+        "longitude": -58.0
+    },
+    "Ukraine": {
+        "id": "84e6f77c3b284024b2489ea217e7949e",
+        "name": "Ukraine",
+        "ofiicial_name": "Ukraine",
+        "capital": "Kyiv",
+        "cca2": "UA",
+        "ccn3": "804",
+        "latitude": 49.0,
+        "longitude": 32.0
+    },
+    "Malaysia": {
+        "id": "63893fc793784ee4bab840d29fc4874a",
+        "name": "Malaysia",
+        "ofiicial_name": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "cca2": "MY",
+        "ccn3": "458",
+        "latitude": 2.5,
+        "longitude": 112.5
+    },
+    "Tonga": {
+        "id": "281695ff3bd74554b06c92ed8de95cf3",
+        "name": "Tonga",
+        "ofiicial_name": "Kingdom of Tonga",
+        "capital": "Nuku'alofa",
+        "cca2": "TO",
+        "ccn3": "776",
+        "latitude": -20.0,
+        "longitude": -175.0
+    },
+    "Benin": {
+        "id": "efa3a89ac41342c49d1865794c1b860d",
+        "name": "Benin",
+        "ofiicial_name": "Republic of Benin",
+        "capital": "Porto-Novo",
+        "cca2": "BJ",
+        "ccn3": "204",
+        "latitude": 9.5,
+        "longitude": 2.25
+    },
+    "Sweden": {
+        "id": "7ca5bee7386d4644962c7c137a1fd0b1",
+        "name": "Sweden",
+        "ofiicial_name": "Kingdom of Sweden",
+        "capital": "Stockholm",
+        "cca2": "SE",
+        "ccn3": "752",
+        "latitude": 62.0,
+        "longitude": 15.0
+    },
+    "Tuvalu": {
+        "id": "12bf9dc7603e4f58bb893ba7f68e7275",
+        "name": "Tuvalu",
+        "ofiicial_name": "Tuvalu",
+        "capital": "Funafuti",
+        "cca2": "TV",
+        "ccn3": "798",
+        "latitude": -8.0,
+        "longitude": 178.0
+    },
+    "Mongolia": {
+        "id": "80c4e4034ccc453c8b58d417a9420c4b",
+        "name": "Mongolia",
+        "ofiicial_name": "Mongolia",
+        "capital": "Ulan Bator",
+        "cca2": "MN",
+        "ccn3": "496",
+        "latitude": 46.0,
+        "longitude": 105.0
+    },
+    "South Africa": {
+        "id": "0c92476da3f94a15966fd181502cce84",
+        "name": "South Africa",
+        "ofiicial_name": "Republic of South Africa",
+        "capital": "Pretoria",
+        "cca2": "ZA",
+        "ccn3": "710",
+        "latitude": -29.0,
+        "longitude": 24.0
+    },
+    "Cura\u00e7ao": {
+        "id": "8668d58ff6354896a5cf2825ef4327d2",
+        "name": "Cura\u00e7ao",
+        "ofiicial_name": "Country of Cura\u00e7ao",
+        "capital": "Willemstad",
+        "cca2": "CW",
+        "ccn3": "531",
+        "latitude": 12.116667,
+        "longitude": -68.933333
+    },
+    "Australia": {
+        "id": "a66368fe9af44918ba0d4ba56e177dc4",
+        "name": "Australia",
+        "ofiicial_name": "Commonwealth of Australia",
+        "capital": "Canberra",
+        "cca2": "AU",
+        "ccn3": "036",
+        "latitude": -27.0,
+        "longitude": 133.0
+    },
+    "Saint Kitts and Nevis": {
+        "id": "d24f9bb650ab41c0a62943008d12ef37",
+        "name": "Saint Kitts and Nevis",
+        "ofiicial_name": "Federation of Saint Christopher and Nevis",
+        "capital": "Basseterre",
+        "cca2": "KN",
+        "ccn3": "659",
+        "latitude": 17.33333333,
+        "longitude": -62.75
+    },
+    "Ghana": {
+        "id": "f091c08e72264317ba149267b54564b1",
+        "name": "Ghana",
+        "ofiicial_name": "Republic of Ghana",
+        "capital": "Accra",
+        "cca2": "GH",
+        "ccn3": "288",
+        "latitude": 8.0,
+        "longitude": -2.0
+    },
+    "Iraq": {
+        "id": "a94344b534764e709e29e5c95f2785ac",
+        "name": "Iraq",
+        "ofiicial_name": "Republic of Iraq",
+        "capital": "Baghdad",
+        "cca2": "IQ",
+        "ccn3": "368",
+        "latitude": 33.0,
+        "longitude": 44.0
+    },
+    "Vietnam": {
+        "id": "f96775baf5174bfbb2ac3b02ffbc9372",
+        "name": "Vietnam",
+        "ofiicial_name": "Socialist Republic of Vietnam",
+        "capital": "Hanoi",
+        "cca2": "VN",
+        "ccn3": "704",
+        "latitude": 16.16666666,
+        "longitude": 107.83333333
+    },
+    "Guyana": {
+        "id": "41ae5fc9ae7441baa959ddbc42de7600",
+        "name": "Guyana",
+        "ofiicial_name": "Co-operative Republic of Guyana",
+        "capital": "Georgetown",
+        "cca2": "GY",
+        "ccn3": "328",
+        "latitude": 5.0,
+        "longitude": -59.0
+    },
+    "Azerbaijan": {
+        "id": "c6032ca2c17140179c42cbace4e85d42",
+        "name": "Azerbaijan",
+        "ofiicial_name": "Republic of Azerbaijan",
+        "capital": "Baku",
+        "cca2": "AZ",
+        "ccn3": "031",
+        "latitude": 40.5,
+        "longitude": 47.5
+    },
+    "Cameroon": {
+        "id": "acd68baee2de4c77bf2d713c95a0bccf",
+        "name": "Cameroon",
+        "ofiicial_name": "Republic of Cameroon",
+        "capital": "Yaound\u00e9",
+        "cca2": "CM",
+        "ccn3": "120",
+        "latitude": 6.0,
+        "longitude": 12.0
+    },
+    "Egypt": {
+        "id": "82957e2bf5d146d880b43530585bebe7",
+        "name": "Egypt",
+        "ofiicial_name": "Arab Republic of Egypt",
+        "capital": "Cairo",
+        "cca2": "EG",
+        "ccn3": "818",
+        "latitude": 27.0,
+        "longitude": 30.0
+    },
+    "Iceland": {
+        "id": "e0b4124fb28e4963a9b156066aaad650",
+        "name": "Iceland",
+        "ofiicial_name": "Iceland",
+        "capital": "Reykjavik",
+        "cca2": "IS",
+        "ccn3": "352",
+        "latitude": 65.0,
+        "longitude": -18.0
+    },
+    "Venezuela": {
+        "id": "5030deed110340bb9767c4051ce275e3",
+        "name": "Venezuela",
+        "ofiicial_name": "Bolivarian Republic of Venezuela",
+        "capital": "Caracas",
+        "cca2": "VE",
+        "ccn3": "862",
+        "latitude": 8.0,
+        "longitude": -66.0
+    },
+    "Barbados": {
+        "id": "26b7d65caa7c44e2b2309bc267dc3c0c",
+        "name": "Barbados",
+        "ofiicial_name": "Barbados",
+        "capital": "Bridgetown",
+        "cca2": "BB",
+        "ccn3": "052",
+        "latitude": 13.16666666,
+        "longitude": -59.53333333
+    },
+    "Falkland Islands": {
+        "id": "720f9d194e6948019153e931fc3802ef",
+        "name": "Falkland Islands",
+        "ofiicial_name": "Falkland Islands",
+        "capital": "Stanley",
+        "cca2": "FK",
+        "ccn3": "238",
+        "latitude": -51.75,
+        "longitude": -59.0
+    },
+    "Malawi": {
+        "id": "792494e6e46d43098c8797fc3c054cbd",
+        "name": "Malawi",
+        "ofiicial_name": "Republic of Malawi",
+        "capital": "Lilongwe",
+        "cca2": "MW",
+        "ccn3": "454",
+        "latitude": -13.5,
+        "longitude": 34.0
+    },
+    "Kyrgyzstan": {
+        "id": "28e642e2c89c48239f43da98571ed647",
+        "name": "Kyrgyzstan",
+        "ofiicial_name": "Kyrgyz Republic",
+        "capital": "Bishkek",
+        "cca2": "KG",
+        "ccn3": "417",
+        "latitude": 41.0,
+        "longitude": 75.0
+    },
+    "Taiwan": {
+        "id": "3b8799568fc645d0bf1112c4eae4387e",
+        "name": "Taiwan",
+        "ofiicial_name": "Republic of China (Taiwan)",
+        "capital": "Taipei",
+        "cca2": "TW",
+        "ccn3": "158",
+        "latitude": 23.5,
+        "longitude": 121.0
+    },
+    "Bulgaria": {
+        "id": "0bedd9c54bdc401fa607cdf0df15f860",
+        "name": "Bulgaria",
+        "ofiicial_name": "Republic of Bulgaria",
+        "capital": "Sofia",
+        "cca2": "BG",
+        "ccn3": "100",
+        "latitude": 43.0,
+        "longitude": 25.0
+    },
+    "North Korea": {
+        "id": "db4e4b25746f4d99b1704dbc135284fa",
+        "name": "North Korea",
+        "ofiicial_name": "Democratic People's Republic of Korea",
+        "capital": "Pyongyang",
+        "cca2": "KP",
+        "ccn3": "408",
+        "latitude": 40.0,
+        "longitude": 127.0
+    },
+    "Andorra": {
+        "id": "7522721803474992b1797ff95cc5830a",
+        "name": "Andorra",
+        "ofiicial_name": "Principality of Andorra",
+        "capital": "Andorra la Vella",
+        "cca2": "AD",
+        "ccn3": "020",
+        "latitude": 42.5,
+        "longitude": 1.5
+    },
+    "Angola": {
+        "id": "f4a58a50f34b4db588c20ce202888296",
+        "name": "Angola",
+        "ofiicial_name": "Republic of Angola",
+        "capital": "Luanda",
+        "cca2": "AO",
+        "ccn3": "024",
+        "latitude": -12.5,
+        "longitude": 18.5
+    },
+    "Saint Barth\u00e9lemy": {
+        "id": "00496d080a2f405f87cb6ecc5304833e",
+        "name": "Saint Barth\u00e9lemy",
+        "ofiicial_name": "Collectivity of Saint Barth\u00e9lemy",
+        "capital": "Gustavia",
+        "cca2": "BL",
+        "ccn3": "652",
+        "latitude": 18.5,
+        "longitude": -63.41666666
+    },
+    "Russia": {
+        "id": "d6ba28680f964f98b908f91db6bfdcff",
+        "name": "Russia",
+        "ofiicial_name": "Russian Federation",
+        "capital": "Moscow",
+        "cca2": "RU",
+        "ccn3": "643",
+        "latitude": 60.0,
+        "longitude": 100.0
+    },
+    "Burkina Faso": {
+        "id": "6478362c60c44acc87076b57aa24066f",
+        "name": "Burkina Faso",
+        "ofiicial_name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "cca2": "BF",
+        "ccn3": "854",
+        "latitude": 13.0,
+        "longitude": -2.0
+    },
+    "Vatican City": {
+        "id": "da5900676578402696155bf8662152ca",
+        "name": "Vatican City",
+        "ofiicial_name": "Vatican City State",
+        "capital": "Vatican City",
+        "cca2": "VA",
+        "ccn3": "336",
+        "latitude": 41.9,
+        "longitude": 12.45
+    },
+    "Isle of Man": {
+        "id": "18c065258f8840ac809ff602f12b8ecf",
+        "name": "Isle of Man",
+        "ofiicial_name": "Isle of Man",
+        "capital": "Douglas",
+        "cca2": "IM",
+        "ccn3": "833",
+        "latitude": 54.25,
+        "longitude": -4.5
+    },
+    "Afghanistan": {
+        "id": "60624f8ad27e42e49148a05be74973e1",
+        "name": "Afghanistan",
+        "ofiicial_name": "Islamic Republic of Afghanistan",
+        "capital": "Kabul",
+        "cca2": "AF",
+        "ccn3": "004",
+        "latitude": 33.0,
+        "longitude": 65.0
+    },
+    "Croatia": {
+        "id": "f35b0ac72a1642fbb9311d29fd9b975f",
+        "name": "Croatia",
+        "ofiicial_name": "Republic of Croatia",
+        "capital": "Zagreb",
+        "cca2": "HR",
+        "ccn3": "191",
+        "latitude": 45.16666666,
+        "longitude": 15.5
+    },
+    "Bhutan": {
+        "id": "396bbda5e8ec4d63be73aaa05e3b4caf",
+        "name": "Bhutan",
+        "ofiicial_name": "Kingdom of Bhutan",
+        "capital": "Thimphu",
+        "cca2": "BT",
+        "ccn3": "064",
+        "latitude": 27.5,
+        "longitude": 90.5
+    },
+    "Belarus": {
+        "id": "84c4c49902e740b991fb14acdfe5ad24",
+        "name": "Belarus",
+        "ofiicial_name": "Republic of Belarus",
+        "capital": "Minsk",
+        "cca2": "BY",
+        "ccn3": "112",
+        "latitude": 53.0,
+        "longitude": 28.0
+    },
+    "Cocos (Keeling) Islands": {
+        "id": "ca43e01da39041e49a2dbfaa898c0f01",
+        "name": "Cocos (Keeling) Islands",
+        "ofiicial_name": "Territory of the Cocos (Keeling) Islands",
+        "capital": "West Island",
+        "cca2": "CC",
+        "ccn3": "166",
+        "latitude": -12.1642,
+        "longitude": 96.871
+    },
+    "New Zealand": {
+        "id": "44ed0ccd7bf4449fac726ddb63572395",
+        "name": "New Zealand",
+        "ofiicial_name": "New Zealand",
+        "capital": "Wellington",
+        "cca2": "NZ",
+        "ccn3": "554",
+        "latitude": -41.0,
+        "longitude": 174.0
+    },
+    "Madagascar": {
+        "id": "c9b011842b6d4cc19a713ae32a7016a8",
+        "name": "Madagascar",
+        "ofiicial_name": "Republic of Madagascar",
+        "capital": "Antananarivo",
+        "cca2": "MG",
+        "ccn3": "450",
+        "latitude": -20.0,
+        "longitude": 47.0
+    },
+    "Thailand": {
+        "id": "a36fc4b4c9fa4bc19d63890a99dfacb4",
+        "name": "Thailand",
+        "ofiicial_name": "Kingdom of Thailand",
+        "capital": "Bangkok",
+        "cca2": "TH",
+        "ccn3": "764",
+        "latitude": 15.0,
+        "longitude": 100.0
+    },
+    "Georgia": {
+        "id": "6a1d3a3695e4435abbb63c6a9ef6f3d8",
+        "name": "Georgia",
+        "ofiicial_name": "Georgia",
+        "capital": "Tbilisi",
+        "cca2": "GE",
+        "ccn3": "268",
+        "latitude": 42.0,
+        "longitude": 43.5
+    },
+    "India": {
+        "id": "243e860ddfc0435ab9f9f092d23bef80",
+        "name": "India",
+        "ofiicial_name": "Republic of India",
+        "capital": "New Delhi",
+        "cca2": "IN",
+        "ccn3": "356",
+        "latitude": 20.0,
+        "longitude": 77.0
+    },
+    "China": {
+        "id": "b0a4c039992c4e7f8e61b101327749e5",
+        "name": "China",
+        "ofiicial_name": "People's Republic of China",
+        "capital": "Beijing",
+        "cca2": "CN",
+        "ccn3": "156",
+        "latitude": 35.0,
+        "longitude": 105.0
+    },
+    "Saint Pierre and Miquelon": {
+        "id": "3577f49bb9d841f8a2a9bfe64ba7c484",
+        "name": "Saint Pierre and Miquelon",
+        "ofiicial_name": "Saint Pierre and Miquelon",
+        "capital": "Saint-Pierre",
+        "cca2": "PM",
+        "ccn3": "666",
+        "latitude": 46.83333333,
+        "longitude": -56.33333333
+    },
+    "Puerto Rico": {
+        "id": "6727dbcd106f4771b800f5cfbebd567f",
+        "name": "Puerto Rico",
+        "ofiicial_name": "Commonwealth of Puerto Rico",
+        "capital": "San Juan",
+        "cca2": "PR",
+        "ccn3": "630",
+        "latitude": 18.25,
+        "longitude": -66.5
+    },
+    "Djibouti": {
+        "id": "3b6d92653b1f4fa4b4b0ea0d0610e3bc",
+        "name": "Djibouti",
+        "ofiicial_name": "Republic of Djibouti",
+        "capital": "Djibouti",
+        "cca2": "DJ",
+        "ccn3": "262",
+        "latitude": 11.5,
+        "longitude": 43.0
+    },
+    "Saudi Arabia": {
+        "id": "0cda052c82c747e394c12ca172dbffea",
+        "name": "Saudi Arabia",
+        "ofiicial_name": "Kingdom of Saudi Arabia",
+        "capital": "Riyadh",
+        "cca2": "SA",
+        "ccn3": "682",
+        "latitude": 25.0,
+        "longitude": 45.0
+    },
+    "Iran": {
+        "id": "294aad664d0046c2b83e208df0c3e9e8",
+        "name": "Iran",
+        "ofiicial_name": "Islamic Republic of Iran",
+        "capital": "Tehran",
+        "cca2": "IR",
+        "ccn3": "364",
+        "latitude": 32.0,
+        "longitude": 53.0
+    },
+    "Zambia": {
+        "id": "f2839af51ffc4853808a79bb69c1e3ef",
+        "name": "Zambia",
+        "ofiicial_name": "Republic of Zambia",
+        "capital": "Lusaka",
+        "cca2": "ZM",
+        "ccn3": "894",
+        "latitude": -15.0,
+        "longitude": 30.0
+    },
+    "Ethiopia": {
+        "id": "65b5224bde434426be0d5bdf473c11ca",
+        "name": "Ethiopia",
+        "ofiicial_name": "Federal Democratic Republic of Ethiopia",
+        "capital": "Addis Ababa",
+        "cca2": "ET",
+        "ccn3": "231",
+        "latitude": 8.0,
+        "longitude": 38.0
+    },
+    "Guatemala": {
+        "id": "e0a3df1a3b534baaa4fd745603d03c59",
+        "name": "Guatemala",
+        "ofiicial_name": "Republic of Guatemala",
+        "capital": "Guatemala City",
+        "cca2": "GT",
+        "ccn3": "320",
+        "latitude": 15.5,
+        "longitude": -90.25
+    },
+    "Martinique": {
+        "id": "23501638e59348d69ec82b0c50e9cc84",
+        "name": "Martinique",
+        "ofiicial_name": "Martinique",
+        "capital": "Fort-de-France",
+        "cca2": "MQ",
+        "ccn3": "474",
+        "latitude": 14.666667,
+        "longitude": -61.0
+    },
+    "Suriname": {
+        "id": "07e93214e0c14480b63e312b37921b7c",
+        "name": "Suriname",
+        "ofiicial_name": "Republic of Suriname",
+        "capital": "Paramaribo",
+        "cca2": "SR",
+        "ccn3": "740",
+        "latitude": 4.0,
+        "longitude": -56.0
+    },
+    "Uruguay": {
+        "id": "6c99d2dd5338451689aa3d237439449b",
+        "name": "Uruguay",
+        "ofiicial_name": "Oriental Republic of Uruguay",
+        "capital": "Montevideo",
+        "cca2": "UY",
+        "ccn3": "858",
+        "latitude": -33.0,
+        "longitude": -56.0
+    },
+    "Italy": {
+        "id": "49e61958d6d94d8cb0e50eeccc4a0ed7",
+        "name": "Italy",
+        "ofiicial_name": "Italian Republic",
+        "capital": "Rome",
+        "cca2": "IT",
+        "ccn3": "380",
+        "latitude": 42.83333333,
+        "longitude": 12.83333333
+    },
+    "New Caledonia": {
+        "id": "f891daaba5b94f8ebf1834bfd6669d49",
+        "name": "New Caledonia",
+        "ofiicial_name": "New Caledonia",
+        "capital": "Noum\u00e9a",
+        "cca2": "NC",
+        "ccn3": "540",
+        "latitude": -21.5,
+        "longitude": 165.5
+    },
+    "Fiji": {
+        "id": "7036fd0c27ee44abbefdccd24400c898",
+        "name": "Fiji",
+        "ofiicial_name": "Republic of Fiji",
+        "capital": "Suva",
+        "cca2": "FJ",
+        "ccn3": "242",
+        "latitude": -17.7134,
+        "longitude": 178.065
+    },
+    "Aruba": {
+        "id": "e6132bdf83ee4a568b2f6529ba3d007d",
+        "name": "Aruba",
+        "ofiicial_name": "Aruba",
+        "capital": "Oranjestad",
+        "cca2": "AW",
+        "ccn3": "533",
+        "latitude": 12.5,
+        "longitude": -69.96666666
+    },
+    "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+        "id": "07cd2b5c782845caaf1879239c38cec1",
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "ofiicial_name": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "capital": "S\u00e3o Tom\u00e9",
+        "cca2": "ST",
+        "ccn3": "678",
+        "latitude": 1.0,
+        "longitude": 7.0
+    },
+    "Switzerland": {
+        "id": "716a154107184ff4b342dd35bb4e159d",
+        "name": "Switzerland",
+        "ofiicial_name": "Swiss Confederation",
+        "capital": "Bern",
+        "cca2": "CH",
+        "ccn3": "756",
+        "latitude": 47.0,
+        "longitude": 8.0
+    },
+    "DR Congo": {
+        "id": "da2e4d200452466689fe7f20ff2c9ffb",
+        "name": "DR Congo",
+        "ofiicial_name": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
+        "cca2": "CD",
+        "ccn3": "180",
+        "latitude": 0.0,
+        "longitude": 25.0
+    },
+    "Finland": {
+        "id": "15f698e43e654dc1abfcbad96eaa8e00",
+        "name": "Finland",
+        "ofiicial_name": "Republic of Finland",
+        "capital": "Helsinki",
+        "cca2": "FI",
+        "ccn3": "246",
+        "latitude": 64.0,
+        "longitude": 26.0
+    },
+    "Malta": {
+        "id": "523749eddfdb44bea654a87ed3b233fc",
+        "name": "Malta",
+        "ofiicial_name": "Republic of Malta",
+        "capital": "Valletta",
+        "cca2": "MT",
+        "ccn3": "470",
+        "latitude": 35.9375,
+        "longitude": 14.3754
+    },
+    "El Salvador": {
+        "id": "2ed5f11bb4dc4c439c6e9169f9592aec",
+        "name": "El Salvador",
+        "ofiicial_name": "Republic of El Salvador",
+        "capital": "San Salvador",
+        "cca2": "SV",
+        "ccn3": "222",
+        "latitude": 13.83333333,
+        "longitude": -88.91666666
+    },
+    "Jordan": {
+        "id": "4cc233b550434a408d020665116083a9",
+        "name": "Jordan",
+        "ofiicial_name": "Hashemite Kingdom of Jordan",
+        "capital": "Amman",
+        "cca2": "JO",
+        "ccn3": "400",
+        "latitude": 31.0,
+        "longitude": 36.0
+    },
+    "Tokelau": {
+        "id": "ac1d385c4b65423d9bc6ab45a0b8508f",
+        "name": "Tokelau",
+        "ofiicial_name": "Tokelau",
+        "capital": "Fakaofo",
+        "cca2": "TK",
+        "ccn3": "772",
+        "latitude": -9.0,
+        "longitude": -172.0
+    },
+    "Nauru": {
+        "id": "37702dae8f93477ca913d188cfd0fc96",
+        "name": "Nauru",
+        "ofiicial_name": "Republic of Nauru",
+        "capital": "Yaren",
+        "cca2": "NR",
+        "ccn3": "520",
+        "latitude": -0.53333333,
+        "longitude": 166.91666666
+    },
+    "Poland": {
+        "id": "b4bb26a847d144d9aaa71a84142fdd09",
+        "name": "Poland",
+        "ofiicial_name": "Republic of Poland",
+        "capital": "Warsaw",
+        "cca2": "PL",
+        "ccn3": "616",
+        "latitude": 52.0,
+        "longitude": 20.0
+    },
+    "Mauritania": {
+        "id": "4d9b842b62db487ea90a0d33bcd8beff",
+        "name": "Mauritania",
+        "ofiicial_name": "Islamic Republic of Mauritania",
+        "capital": "Nouakchott",
+        "cca2": "MR",
+        "ccn3": "478",
+        "latitude": 20.0,
+        "longitude": -12.0
+    },
+    "Wallis and Futuna": {
+        "id": "bda616edf22d4f448231e0b95c4d66a6",
+        "name": "Wallis and Futuna",
+        "ofiicial_name": "Territory of the Wallis and Futuna Islands",
+        "capital": "Mata-Utu",
+        "cca2": "WF",
+        "ccn3": "876",
+        "latitude": -13.3,
+        "longitude": -176.2
+    },
+    "Guam": {
+        "id": "61c6db03ef5b4173ae3b3e4691dfeb01",
+        "name": "Guam",
+        "ofiicial_name": "Guam",
+        "capital": "Hag\u00e5t\u00f1a",
+        "cca2": "GU",
+        "ccn3": "316",
+        "latitude": 13.46666666,
+        "longitude": 144.78333333
+    },
+    "North Macedonia": {
+        "id": "f2f97805b8144d8196f1ef788fa2f324",
+        "name": "North Macedonia",
+        "ofiicial_name": "Republic of North Macedonia",
+        "capital": "Skopje",
+        "cca2": "MK",
+        "ccn3": "807",
+        "latitude": 41.83333333,
+        "longitude": 22.0
+    },
+    "Togo": {
+        "id": "e0784369dcc1451786c07b4be584c292",
+        "name": "Togo",
+        "ofiicial_name": "Togolese Republic",
+        "capital": "Lom\u00e9",
+        "cca2": "TG",
+        "ccn3": "768",
+        "latitude": 8.0,
+        "longitude": 1.16666666
+    },
+    "Myanmar": {
+        "id": "70e87003a76945a8ad6486d836bf3431",
+        "name": "Myanmar",
+        "ofiicial_name": "Republic of the Union of Myanmar",
+        "capital": "Naypyidaw",
+        "cca2": "MM",
+        "ccn3": "104",
+        "latitude": 22.0,
+        "longitude": 98.0
+    },
+    "Qatar": {
+        "id": "cd378804f3284d1a90ad46e373188e22",
+        "name": "Qatar",
+        "ofiicial_name": "State of Qatar",
+        "capital": "Doha",
+        "cca2": "QA",
+        "ccn3": "634",
+        "latitude": 25.5,
+        "longitude": 51.25
+    },
+    "France": {
+        "id": "a30bfd47f75f438c8fb45545ebfde95a",
+        "name": "France",
+        "ofiicial_name": "French Republic",
+        "capital": "Paris",
+        "cca2": "FR",
+        "ccn3": "250",
+        "latitude": 46.0,
+        "longitude": 2.0
+    },
+    "Mayotte": {
+        "id": "c162351bfa414ea598cfb2e387ee2264",
+        "name": "Mayotte",
+        "ofiicial_name": "Department of Mayotte",
+        "capital": "Mamoudzou",
+        "cca2": "YT",
+        "ccn3": "175",
+        "latitude": -12.83333333,
+        "longitude": 45.16666666
+    },
+    "Norfolk Island": {
+        "id": "60d29e5d1bd54f77a9fb9b39c2475f6d",
+        "name": "Norfolk Island",
+        "ofiicial_name": "Territory of Norfolk Island",
+        "capital": "Kingston",
+        "cca2": "NF",
+        "ccn3": "574",
+        "latitude": -29.03333333,
+        "longitude": 167.95
+    },
+    "Seychelles": {
+        "id": "d37987052f62471cb1ed719134a809cc",
+        "name": "Seychelles",
+        "ofiicial_name": "Republic of Seychelles",
+        "capital": "Victoria",
+        "cca2": "SC",
+        "ccn3": "690",
+        "latitude": -4.58333333,
+        "longitude": 55.66666666
+    },
+    "Moldova": {
+        "id": "9343c8f76ca04909b705442c4a362be9",
+        "name": "Moldova",
+        "ofiicial_name": "Republic of Moldova",
+        "capital": "Chi\u0219in\u0103u",
+        "cca2": "MD",
+        "ccn3": "498",
+        "latitude": 47.0,
+        "longitude": 29.0
+    },
+    "South Sudan": {
+        "id": "fb10507f88804cecab337af631569960",
+        "name": "South Sudan",
+        "ofiicial_name": "Republic of South Sudan",
+        "capital": "Juba",
+        "cca2": "SS",
+        "ccn3": "728",
+        "latitude": 7.0,
+        "longitude": 30.0
+    },
+    "Brunei": {
+        "id": "70acf758b0774092aa6f5c14b3153faa",
+        "name": "Brunei",
+        "ofiicial_name": "Nation of Brunei, Abode of Peace",
+        "capital": "Bandar Seri Begawan",
+        "cca2": "BN",
+        "ccn3": "096",
+        "latitude": 4.5,
+        "longitude": 114.66666666
+    },
+    "Japan": {
+        "id": "7dd94ab0bd8c452b850b023d954a2e04",
+        "name": "Japan",
+        "ofiicial_name": "Japan",
+        "capital": "Tokyo",
+        "cca2": "JP",
+        "ccn3": "392",
+        "latitude": 36.0,
+        "longitude": 138.0
+    },
+    "Grenada": {
+        "id": "1a3aaf3fe2eb4114917f4d9294775d1b",
+        "name": "Grenada",
+        "ofiicial_name": "Grenada",
+        "capital": "St. George's",
+        "cca2": "GD",
+        "ccn3": "308",
+        "latitude": 12.11666666,
+        "longitude": -61.66666666
+    },
+    "Spain": {
+        "id": "629ca2bab4ab488a89679cf95c42e089",
+        "name": "Spain",
+        "ofiicial_name": "Kingdom of Spain",
+        "capital": "Madrid",
+        "cca2": "ES",
+        "ccn3": "724",
+        "latitude": 40.0,
+        "longitude": -4.0
+    },
+    "Caribbean Netherlands": {
+        "id": "c78c92c4fd57436cbc685b0b68c8c84f",
+        "name": "Caribbean Netherlands",
+        "ofiicial_name": "Bonaire, Sint Eustatius and Saba",
+        "capital": "Kralendijk",
+        "cca2": "BQ",
+        "ccn3": "535",
+        "latitude": 12.18,
+        "longitude": -68.25
+    },
+    "Papua New Guinea": {
+        "id": "ae29d44f2bb04887b619a210b5fd836e",
+        "name": "Papua New Guinea",
+        "ofiicial_name": "Independent State of Papua New Guinea",
+        "capital": "Port Moresby",
+        "cca2": "PG",
+        "ccn3": "598",
+        "latitude": -6.0,
+        "longitude": 147.0
+    },
+    "Uzbekistan": {
+        "id": "a357051919354d16a0adbf706c903d98",
+        "name": "Uzbekistan",
+        "ofiicial_name": "Republic of Uzbekistan",
+        "capital": "Tashkent",
+        "cca2": "UZ",
+        "ccn3": "860",
+        "latitude": 41.0,
+        "longitude": 64.0
+    },
+    "Argentina": {
+        "id": "7926a05118ac49d1babd3b93fe0c6660",
+        "name": "Argentina",
+        "ofiicial_name": "Argentine Republic",
+        "capital": "Buenos Aires",
+        "cca2": "AR",
+        "ccn3": "032",
+        "latitude": -34.0,
+        "longitude": -64.0
+    },
+    "South Korea": {
+        "id": "7e7a3c51fb24431eba43688a3f9f7736",
+        "name": "South Korea",
+        "ofiicial_name": "Republic of Korea",
+        "capital": "Seoul",
+        "cca2": "KR",
+        "ccn3": "410",
+        "latitude": 37.0,
+        "longitude": 127.5
+    },
+    "Belize": {
+        "id": "75e01f37bf5e4a358dc4df346b35b6ac",
+        "name": "Belize",
+        "ofiicial_name": "Belize",
+        "capital": "Belmopan",
+        "cca2": "BZ",
+        "ccn3": "084",
+        "latitude": 17.25,
+        "longitude": -88.75
+    },
+    "R\u00e9union": {
+        "id": "d91e3da4b6f54d55b2fab84aa0cb906d",
+        "name": "R\u00e9union",
+        "ofiicial_name": "R\u00e9union Island",
+        "capital": "Saint-Denis",
+        "cca2": "RE",
+        "ccn3": "638",
+        "latitude": -21.15,
+        "longitude": 55.5
+    },
+    "Mexico": {
+        "id": "7c8a01bea0684a63928acb8235623426",
+        "name": "Mexico",
+        "ofiicial_name": "United Mexican States",
+        "capital": "Mexico City",
+        "cca2": "MX",
+        "ccn3": "484",
+        "latitude": 23.0,
+        "longitude": -102.0
+    },
+    "United States Virgin Islands": {
+        "id": "6bf6bf3bb31549efa29dcfc7bc0d3e9f",
+        "name": "United States Virgin Islands",
+        "ofiicial_name": "Virgin Islands of the United States",
+        "capital": "Charlotte Amalie",
+        "cca2": "VI",
+        "ccn3": "850",
+        "latitude": 18.35,
+        "longitude": -64.933333
+    },
+    "Serbia": {
+        "id": "16e80c96668e4cf69617192c76ace65a",
+        "name": "Serbia",
+        "ofiicial_name": "Republic of Serbia",
+        "capital": "Belgrade",
+        "cca2": "RS",
+        "ccn3": "688",
+        "latitude": 44.0,
+        "longitude": 21.0
+    },
+    "United States Minor Outlying Islands": {
+        "id": "efc3a1f4f55f482688d1163c1ab82c41",
+        "name": "United States Minor Outlying Islands",
+        "ofiicial_name": "United States Minor Outlying Islands",
+        "capital": "Washington DC",
+        "cca2": "UM",
+        "ccn3": "581",
+        "latitude": 19.3,
+        "longitude": 166.633333
+    },
+    "Cape Verde": {
+        "id": "2c96643d2c614a12ade0b50dda4320e4",
+        "name": "Cape Verde",
+        "ofiicial_name": "Republic of Cabo Verde",
+        "capital": "Praia",
+        "cca2": "CV",
+        "ccn3": "132",
+        "latitude": 16.5388,
+        "longitude": -23.0418
+    },
+    "Cambodia": {
+        "id": "11224664f983493a85a4a15b90f31f3a",
+        "name": "Cambodia",
+        "ofiicial_name": "Kingdom of Cambodia",
+        "capital": "Phnom Penh",
+        "cca2": "KH",
+        "ccn3": "116",
+        "latitude": 13.0,
+        "longitude": 105.0
+    },
+    "Romania": {
+        "id": "bc9f76d04efc462a8db691d683c8ad75",
+        "name": "Romania",
+        "ofiicial_name": "Romania",
+        "capital": "Bucharest",
+        "cca2": "RO",
+        "ccn3": "642",
+        "latitude": 46.0,
+        "longitude": 25.0
+    },
+    "Hungary": {
+        "id": "f1dca3aa64c64da6a5621d16141e2656",
+        "name": "Hungary",
+        "ofiicial_name": "Hungary",
+        "capital": "Budapest",
+        "cca2": "HU",
+        "ccn3": "348",
+        "latitude": 47.0,
+        "longitude": 20.0
+    },
+    "Marshall Islands": {
+        "id": "06f1024474db4f4484fe2c602d1715d6",
+        "name": "Marshall Islands",
+        "ofiicial_name": "Republic of the Marshall Islands",
+        "capital": "Majuro",
+        "cca2": "MH",
+        "ccn3": "584",
+        "latitude": 9.0,
+        "longitude": 168.0
+    },
+    "Somalia": {
+        "id": "121a27e19b1449538f8f27967857ca78",
+        "name": "Somalia",
+        "ofiicial_name": "Federal Republic of Somalia",
+        "capital": "Mogadishu",
+        "cca2": "SO",
+        "ccn3": "706",
+        "latitude": 10.0,
+        "longitude": 49.0
+    },
+    "Albania": {
+        "id": "c21cd21642494e8388dfc4f8a7dc8ee7",
+        "name": "Albania",
+        "ofiicial_name": "Republic of Albania",
+        "capital": "Tirana",
+        "cca2": "AL",
+        "ccn3": "008",
+        "latitude": 41.0,
+        "longitude": 20.0
+    },
+    "French Polynesia": {
+        "id": "6f3ddf8f35584e7ca30eb2917b6b9e0e",
+        "name": "French Polynesia",
+        "ofiicial_name": "French Polynesia",
+        "capital": "Papeet\u0113",
+        "cca2": "PF",
+        "ccn3": "258",
+        "latitude": -17.6797,
+        "longitude": -149.4068
+    },
+    "Burundi": {
+        "id": "e1a8ac7fcc914ebcbff2af7d2cbf616d",
+        "name": "Burundi",
+        "ofiicial_name": "Republic of Burundi",
+        "capital": "Gitega",
+        "cca2": "BI",
+        "ccn3": "108",
+        "latitude": -3.5,
+        "longitude": 30.0
+    },
+    "Central African Republic": {
+        "id": "66b394e671264cb9a2fbaecff4f1fc57",
+        "name": "Central African Republic",
+        "ofiicial_name": "Central African Republic",
+        "capital": "Bangui",
+        "cca2": "CF",
+        "ccn3": "140",
+        "latitude": 7.0,
+        "longitude": 21.0
+    },
+    "French Guiana": {
+        "id": "352395ef578f4c30b805d439b8919723",
+        "name": "French Guiana",
+        "ofiicial_name": "Guiana",
+        "capital": "Cayenne",
+        "cca2": "GF",
+        "ccn3": "254",
+        "latitude": 4.0,
+        "longitude": -53.0
+    },
+    "American Samoa": {
+        "id": "d5772696830c4602a2d9592a1458ab1c",
+        "name": "American Samoa",
+        "ofiicial_name": "American Samoa",
+        "capital": "Pago Pago",
+        "cca2": "AS",
+        "ccn3": "016",
+        "latitude": -14.33333333,
+        "longitude": -170.0
+    },
+    "Saint Lucia": {
+        "id": "77810101067548f3a078872f80e993f5",
+        "name": "Saint Lucia",
+        "ofiicial_name": "Saint Lucia",
+        "capital": "Castries",
+        "cca2": "LC",
+        "ccn3": "662",
+        "latitude": 13.88333333,
+        "longitude": -60.96666666
+    },
+    "Uganda": {
+        "id": "b031741066924c41aefb70cd7f90d28e",
+        "name": "Uganda",
+        "ofiicial_name": "Republic of Uganda",
+        "capital": "Kampala",
+        "cca2": "UG",
+        "ccn3": "800",
+        "latitude": 1.0,
+        "longitude": 32.0
+    },
+    "Honduras": {
+        "id": "51f0b022b39b4087b9b701aa351a96ce",
+        "name": "Honduras",
+        "ofiicial_name": "Republic of Honduras",
+        "capital": "Tegucigalpa",
+        "cca2": "HN",
+        "ccn3": "340",
+        "latitude": 15.0,
+        "longitude": -86.5
+    },
+    "Kazakhstan": {
+        "id": "dae86fe38e0648e58928ec010f122a4f",
+        "name": "Kazakhstan",
+        "ofiicial_name": "Republic of Kazakhstan",
+        "capital": "Astana",
+        "cca2": "KZ",
+        "ccn3": "398",
+        "latitude": 48.0196,
+        "longitude": 66.9237
+    },
+    "Kenya": {
+        "id": "1ed22721a2f742cdb7bc71689821f7bc",
+        "name": "Kenya",
+        "ofiicial_name": "Republic of Kenya",
+        "capital": "Nairobi",
+        "cca2": "KE",
+        "ccn3": "404",
+        "latitude": 1.0,
+        "longitude": 38.0
+    },
+    "Samoa": {
+        "id": "f897bdf593eb4becaaa2eb9e26c77f2f",
+        "name": "Samoa",
+        "ofiicial_name": "Independent State of Samoa",
+        "capital": "Apia",
+        "cca2": "WS",
+        "ccn3": "882",
+        "latitude": -13.58333333,
+        "longitude": -172.33333333
+    },
+    "Nepal": {
+        "id": "5d0b13920db84e14a9d803dda04c2c37",
+        "name": "Nepal",
+        "ofiicial_name": "Federal Democratic Republic of Nepal",
+        "capital": "Kathmandu",
+        "cca2": "NP",
+        "ccn3": "524",
+        "latitude": 28.0,
+        "longitude": 84.0
+    },
+    "Equatorial Guinea": {
+        "id": "e4f84cec2f2440b8a66eca5e9043e329",
+        "name": "Equatorial Guinea",
+        "ofiicial_name": "Republic of Equatorial Guinea",
+        "capital": "Malabo",
+        "cca2": "GQ",
+        "ccn3": "226",
+        "latitude": 2.0,
+        "longitude": 10.0
+    },
+    "Lebanon": {
+        "id": "8d25cfe7b351428681fe7777b734a86b",
+        "name": "Lebanon",
+        "ofiicial_name": "Lebanese Republic",
+        "capital": "Beirut",
+        "cca2": "LB",
+        "ccn3": "422",
+        "latitude": 33.83333333,
+        "longitude": 35.83333333
+    },
+    "Mauritius": {
+        "id": "020ceca2ac9d4cfcbc4ac6ea1d9c0a11",
+        "name": "Mauritius",
+        "ofiicial_name": "Republic of Mauritius",
+        "capital": "Port Louis",
+        "cca2": "MU",
+        "ccn3": "480",
+        "latitude": -20.28333333,
+        "longitude": 57.55
+    },
+    "Liechtenstein": {
+        "id": "1272ffe16681478eac06576ce45f5972",
+        "name": "Liechtenstein",
+        "ofiicial_name": "Principality of Liechtenstein",
+        "capital": "Vaduz",
+        "cca2": "LI",
+        "ccn3": "438",
+        "latitude": 47.26666666,
+        "longitude": 9.53333333
+    },
+    "Cayman Islands": {
+        "id": "405f68476f454ff99d33f51e156d7574",
+        "name": "Cayman Islands",
+        "ofiicial_name": "Cayman Islands",
+        "capital": "George Town",
+        "cca2": "KY",
+        "ccn3": "136",
+        "latitude": 19.3133,
+        "longitude": -81.2546
+    },
+    "Anguilla": {
+        "id": "5ee818a9172740038c8666857040466e",
+        "name": "Anguilla",
+        "ofiicial_name": "Anguilla",
+        "capital": "The Valley",
+        "cca2": "AI",
+        "ccn3": "660",
+        "latitude": 18.25,
+        "longitude": -63.16666666
+    },
+    "Guadeloupe": {
+        "id": "96e5c9b92c9b47ecad87ba9a25c6530c",
+        "name": "Guadeloupe",
+        "ofiicial_name": "Guadeloupe",
+        "capital": "Basse-Terre",
+        "cca2": "GP",
+        "ccn3": "312",
+        "latitude": 16.25,
+        "longitude": -61.583333
+    },
+    "Austria": {
+        "id": "68468d8671024927b705d6ae41d15012",
+        "name": "Austria",
+        "ofiicial_name": "Republic of Austria",
+        "capital": "Vienna",
+        "cca2": "AT",
+        "ccn3": "040",
+        "latitude": 47.33333333,
+        "longitude": 13.33333333
+    },
+    "Netherlands": {
+        "id": "36af13f145a64452be692a4907b1fca1",
+        "name": "Netherlands",
+        "ofiicial_name": "Kingdom of the Netherlands",
+        "capital": "Amsterdam",
+        "cca2": "NL",
+        "ccn3": "528",
+        "latitude": 52.5,
+        "longitude": 5.75
+    },
+    "Svalbard and Jan Mayen": {
+        "id": "88913a2d9f174d4ca44aeb082b417af3",
+        "name": "Svalbard and Jan Mayen",
+        "ofiicial_name": "Svalbard og Jan Mayen",
+        "capital": "Longyearbyen",
+        "cca2": "SJ",
+        "ccn3": "744",
+        "latitude": 78.0,
+        "longitude": 20.0
+    },
+    "Singapore": {
+        "id": "4e7610d194234ee9af1681bcac595cdc",
+        "name": "Singapore",
+        "ofiicial_name": "Republic of Singapore",
+        "capital": "Singapore",
+        "cca2": "SG",
+        "ccn3": "702",
+        "latitude": 1.36666666,
+        "longitude": 103.8
+    },
+    "Liberia": {
+        "id": "6498471da90347ffb5e5cd1865aa9b63",
+        "name": "Liberia",
+        "ofiicial_name": "Republic of Liberia",
+        "capital": "Monrovia",
+        "cca2": "LR",
+        "ccn3": "430",
+        "latitude": 6.5,
+        "longitude": -9.5
+    }
+}
