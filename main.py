@@ -69,7 +69,11 @@ def get_daily(capitals, timestamp, execution_datetime):
     url = "https://api.openweathermap.org/data/3.0/day_summary?lat={lat}&lon={lon}&units=metric&date={date}y&appid={API_KEY}"
 
     weather_dict = {}
-    weather_type_dict = {}
+    cloud_cover_dict = {}
+    humidity_dict = {}
+    precipitation_dict = {}
+    pressure_dict = {}
+    wind_dict = {}
     date = execution_datetime.date
 
 
@@ -79,17 +83,62 @@ def get_daily(capitals, timestamp, execution_datetime):
         response = requests.get(url_formatted).json()
 
         # transfer to Airflow
-        folder_path = f"./data/raw/daily/{execution_datetime.year}/{execution_datetime.month}/{execution_datetime.day}/{execution_datetime.hour}/"
+        folder_path = f"./data/raw/daily/{execution_datetime.year}/{execution_datetime.month}/{execution_datetime.day}"
         os.makedirs(folder_path, exist_ok=True)
     
 
-        with open(f"./data/raw/daily/{execution_datetime.year}/{execution_datetime.month}/{execution_datetime.day}/{execution_datetime.hour}/{row['name']}.json", 'w') as f:
+        with open(f"./data/raw/daily/{execution_datetime.year}/{execution_datetime.month}/{execution_datetime.day}/{row['name']}.json", 'w') as f:
             json.dump(response, f)
 
-        id = str(uuid.uuid4()).replace('-','')
+        weather_id = str(uuid.uuid4()).replace('-','')
         weather:dict = response
-        weather['id'] = id
+        weather['id'] = weather_id
         weather['timestamp'] = timestamp
+
+        cloud_cover = weather['cloud_cover']
+        cloud_cover_id = str(uuid.uuid4()).replace('-','')
+        cloud_cover['id'] = cloud_cover_id
+        cloud_cover['weather_id'] = weather_id
+        del weather['cloud_cover']
+
+        humidity = weather['humidity']
+        humidity_id = str(uuid.uuid4()).replace('-','')
+        humidity['id'] = humidity_id
+        humidity['weather_id'] = weather_id
+        del weather['humidity']
+
+        precipitation = weather['precipitation']
+        precipitation_id = str(uuid.uuid4()).replace('-','')
+        precipitation['id'] = precipitation_id
+        precipitation['weather_id'] = weather_id
+        del weather['precipitation']
+
+        pressure = weather['pressure']
+        pressure_id = str(uuid.uuid4()).replace('-','')
+        pressure['id'] = pressure_id
+        pressure['weather_id'] = weather_id
+        del weather['pressure']
+
+        wind = weather['wind']
+        wind_id = str(uuid.uuid4()).replace('-','')
+        wind['id'] = wind_id
+        wind['weather_id'] = weather_id
+        del weather['wind']
+
+        weather = {**weather, **weather['temperature']}
+        del weather['temperature']
+
+        weather_dict[weather_id] = weather
+        cloud_cover_dict[cloud_cover_id] = cloud_cover
+        humidity_dict[humidity_id] = humidity
+        precipitation_dict[precipitation_id] = precipitation
+        pressure_dict[pressure_id] = pressure
+        wind_dict[wind_id] = wind
+
+
+    weather_df = pd.DataFrame().from_dict(weather_dict, orient='index')['id', 'min', 'max', 'night', 'morning', 'afternoow', 'evening', 'timestamp']
+    weather_df.to_csv()
+
 
 
 
